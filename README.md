@@ -6,3 +6,6 @@ making use of  grouping ,filtering ,mapping, sorting and collection support of s
 
 Refer [LamdaExamples](https://github.com/lruchandani/Java8-Lambda-examples/blob/master/src/test/java/com/lalit/streams/examples/LamdaExamples.java) 
 
+Added Example on Partial Functions (i.e. Fucntions which makes use of another fucntion)
+Refer [PartialFunctionExamples](https://github.com/lruchandani/Java8-Lambda-examples/blob/master/src/test/java/com/lalit/streams/examples/PartialFunctionExamples.java)
+
